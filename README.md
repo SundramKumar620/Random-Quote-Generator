@@ -24,7 +24,7 @@ A simple web-based random quote generator that fetches quotes from an API and al
 
 ## Demo
 
-You can view the live demo of this project [here](#). *(Add link to your hosted demo)*
+You can view the live demo of this project:- https://sundramkumar620.github.io/Random-Quote-Generator/
 
 ## Installation
 
